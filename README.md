@@ -1,41 +1,31 @@
-# 🎮 Rock-Paper-Scissors - JavaScript DOM Game
+# 🎵 Music Player - JavaScript Project
 
-A **Rock-Paper-Scissors** game built with JavaScript, focusing on **DOM manipulation** and interactive gameplay.  
-This project involved **reviewing, debugging and correcting** the code to enhance functionality and accuracy.
-
-This project is a part of the **freeCodeCamp JavaScript Algorithms and Data Structures Certification**.
+A **simple music player** built with JavaScript, demonstrating **basic string and array methods** for handling song data.  
+This project is part of the **[freeCodeCamp](https://www.freecodecamp.org/)** **JavaScript Algorithms and Data Structures Certification**.
 
 ---
 
 ## 🚀 Features
-- 🖱️ **Interactive Gameplay** – Click buttons to select Rock, Paper, or Scissors.
-- 🧠 **Improved Game Logic** – Reviewed and debugged for accurate outcomes.
-- 🎨 **Dynamic UI Updates** – The game updates and displays results instantly.
-- ⚡ **JavaScript DOM Manipulation** – Enhances interactivity with real-time updates.
-
----
-
-## 🔍 Review & Debugging Highlights
-- 🛠️ **Fixed Bugs** – Identified and corrected logic errors in the game.
-- ⚡ **Optimized DOM Manipulation** – Improved event handling and UI updates.
-- 🎯 **Enhanced Code Structure** – Cleaned up and refactored for better readability.
+- ▶️ **Play/Pause Controls** – Basic music playback functionality.
+- ⏭️ **Next & Previous Song** – Navigate through the playlist.
+- 📜 **Dynamic Playlist Handling** – Uses **JavaScript string and array methods** to manage songs.
+- 🎶 **Interactive UI** – Updates song details dynamically.
 
 ---
 
 ## 🌐 Live Demo
-You can play the game here:  
-🔗 [Live Demo] (https://abhishekdevelops.github.io/Rock-Paper-Scissors-Game/)
+🔗 [Live Demo]  (https://abhishekdevelops.github.io/Music-Player/)
 
 ---
 
 ## 🛠️ Technologies Used
-- **HTML** – Structuring the page  
-- **CSS** – Styling the UI  
-- **JavaScript** – Game logic and DOM manipulation  
+- **HTML** – Structuring the player UI  
+- **CSS** – Styling for a clean look  
+- **JavaScript** – String and array methods for playlist management  
 
 ---
 
 ## 📝 Notes
-- This project was created to **review, debug and refine JavaScript DOM manipulation skills**.
-- It is part of the **freeCodeCamp JavaScript Algorithms and Data Structures Certification**.
-- The **Live Demo** allows you to play and test the game in action.
+- This project was built to **practice JavaScript string and array methods**.
+- It is part of the **[freeCodeCamp](https://www.freecodecamp.org/)** **JavaScript Algorithms and Data Structures Certification**.
+- The **Live Demo** lets you test the music player in action.
